@@ -1,5 +1,5 @@
-# RND-Pytoch
-#### Random Network Distillation(RND) algo in pytorch
+# RND-Pytorch
+#### Random Network Distillation(RND) algorithm in pytorch
 
 This is a PyTorch implementation and enhancement of [Exploration by Random Network Distillation](https://arxiv.org/abs/1810.12894) paper.
 
